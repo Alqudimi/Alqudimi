@@ -1,5 +1,19 @@
 # Welcome to my GitHub Profile! 👋
 
+<div align="center">
+
+![GitHub Stars](https://img.shields.io/github/stars/Alqudimi?style=for-the-badge&color=gold)
+![Followers](https://img.shields.io/github/followers/Alqudimi?style=for-the-badge&label=followers)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alqudimi&show_icons=true&theme=radical&hide_title=true)](https://github.com/Alqudimi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alqudimi&layout=compact&theme=radical)](https://github.com/Alqudimi)
+
+
+
+
+</div>
+---
+
 ## About Me 🧑‍💻
 
 A software developer specializing in Artificial Intelligence, with proven practical experience in designing and developing integrated technical solutions from concept to execution. I excel in the fields of **🤖 Natural Language Processing (NLP)** and **👁️ Computer Vision**, with a track record of projects including building language model training platforms, developing smart surveillance systems, and creating complex mobile applications. I am distinguished by my ability to lead projects independently and master a wide range of modern technologies such as PyTorch, TensorFlow, Django, and Docker. I seek to apply my advanced skills in a challenging work environment to contribute to building the next generation of innovative technological products.
@@ -630,22 +644,6 @@ Kuwait School
 
 ---
 
-<div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/Alqudimi?style=for-the-badge&color=gold)
-![Followers](https://img.shields.io/github/followers/Alqudimi?style=for-the-badge&label=المتابعين)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alqudimi&show_icons=true&theme=radical&hide_title=true)](https://github.com/Alqudimi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alqudimi&layout=compact&theme=radical)](https://github.com/Alqudimi)
-
-
-[![Arabic OTP](https://github-readme-stats.vercel.app/api/pin/?username=Alqudimi&repo=arabic-otp&theme=dark)](https://github.com/Alqudimi/arabic-otp)
-[![Laravel Responses](https://github-readme-stats.vercel.app/api/pin/?username=Alqudimi&repo=laravel-responses&theme=dark)](https://github.com/Alqudimi/laravel-responses)
-
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Alqudimi/arabic-otp,Alqudimi/laravel-responses&type=Timeline)](https://star-history.com/#Alqudimi/arabic-otp&Alqudimi/laravel-responses&Timeline)
-
-</div>
----
 
 ⭐️ من [eng7mi](https://github.com/eng7mi) | 
