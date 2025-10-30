@@ -630,4 +630,22 @@ Kuwait School
 
 ---
 
+<div align="center">
+
+![GitHub Stars](https://img.shields.io/github/stars/Alqudimi?style=for-the-badge&color=gold)
+![Followers](https://img.shields.io/github/followers/Alqudimi?style=for-the-badge&label=المتابعين)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alqudimi&show_icons=true&theme=radical&hide_title=true)](https://github.com/Alqudimi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alqudimi&layout=compact&theme=radical)](https://github.com/Alqudimi)
+
+
+[![Arabic OTP](https://github-readme-stats.vercel.app/api/pin/?username=Alqudimi&repo=arabic-otp&theme=dark)](https://github.com/Alqudimi/arabic-otp)
+[![Laravel Responses](https://github-readme-stats.vercel.app/api/pin/?username=Alqudimi&repo=laravel-responses&theme=dark)](https://github.com/Alqudimi/laravel-responses)
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Alqudimi/arabic-otp,Alqudimi/laravel-responses&type=Timeline)](https://star-history.com/#Alqudimi/arabic-otp&Alqudimi/laravel-responses&Timeline)
+
+</div>
+---
+
 ⭐️ من [eng7mi](https://github.com/eng7mi) | 
