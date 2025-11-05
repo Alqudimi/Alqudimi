@@ -4,11 +4,11 @@
 
 ![GitHub Stars](https://img.shields.io/github/stars/Alqudimi?style=for-the-badge&color=gold)
 ![Followers](https://img.shields.io/github/followers/Alqudimi?style=for-the-badge&label=followers)
-
+![Public Repos](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Alqudimi&style=for-the-badge&color=orange) 
+ 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alqudimi&show_icons=true&theme=radical&hide_title=true)](https://github.com/Alqudimi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alqudimi&layout=compact&theme=radical)](https://github.com/Alqudimi)
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Alqudimi&style=for-the-badge&color=orange) 
 
 
 
