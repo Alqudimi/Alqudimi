@@ -284,22 +284,6 @@ Kuwait School
 
 </div>
 
-## GitHub Stats 📊
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eng7mi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eng7mi&layout=compact&theme=radical&hide_border=true&langs_count=10)
-
-![Top Skills](https://github-readme-stats.vercel.app/api/top-skills/?username=eng7mi&theme=radical&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eng7mi&theme=radical&hide_border=true&area=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eng7mi&theme=radical&hide_border=true)
-
-</div>
-
 ## Awards & Achievements 🏆
 
 <div align="center">
