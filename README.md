@@ -8,6 +8,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alqudimi&show_icons=true&theme=radical&hide_title=true)](https://github.com/Alqudimi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alqudimi&layout=compact&theme=radical)](https://github.com/Alqudimi)
 
+![Public Repos](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Alqudimi&style=for-the-badge&color=orange) 
 
 
 
@@ -31,7 +32,7 @@ Kuwait School
 
 # Technical Skills ⚙️
 
-## Programming Languages 💻
+## Programming Languages 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,12 +44,10 @@ Kuwait School
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 </div>
 
-## Artificial Intelligence & Machine Learning 🤖
+## Artificial Intelligence & Machine Learning 
 ### Frameworks & Deep Learning
 <div align="center">
 
@@ -56,7 +55,6 @@ Kuwait School
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -67,7 +65,6 @@ Kuwait School
 ![NLTK](https://img.shields.io/badge/NLTK-000000?style=for-the-badge&logo=nltk&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
-![BERT](https://img.shields.io/badge/BERT-FF6B6B?style=for-the-badge)
 
 </div>
 
@@ -77,7 +74,6 @@ Kuwait School
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge)
 
 </div>
 
@@ -89,7 +85,6 @@ Kuwait School
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
@@ -98,21 +93,16 @@ Kuwait School
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
-## Mobile App Development 📱
+## Mobile App Development 
 ### Native
 <div align="center">
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 </div>
@@ -120,7 +110,6 @@ Kuwait School
 ### Cross-platform
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Kivy](https://img.shields.io/badge/Kivy-1B6AE3?style=for-the-badge&logo=kivy&logoColor=white)
 
@@ -133,7 +122,6 @@ Kuwait School
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
@@ -143,22 +131,13 @@ Kuwait School
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
 
 </div>
 
-## Cloud Computing ☁️
-<div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
-</div>
-
-## Other Tools & Technologies 🛠️
+## Other Tools & Technologies 
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -203,16 +182,6 @@ Kuwait School
 
 </div>
 
-## Awards & Achievements 🏆
-
-<div align="center">
-
-![Hackathon Winner](https://img.shields.io/badge/Hackathon%20Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
-![Open Source Contributor](https://img.shields.io/badge/Open%20Source%20Contributor-28A745?style=for-the-badge&logo=github&logoColor=white)
-![AI Researcher](https://img.shields.io/badge/AI%20Researcher-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-6F42C1?style=for-the-badge&logo=fullstack&logoColor=white)
-
-</div>
 
 ## Contact Me 📞
 
